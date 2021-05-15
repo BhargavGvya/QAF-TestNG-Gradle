@@ -1,0 +1,23 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "desc": "Exploring QAF TestNG",
+        "description": "Exploring QAF TestNG",
+        "groups": [],
+        "lineNo": 1,
+        "name": "QAF TestNG Demo",
+        "referece": "scenarios/suite.bdd",
+        "sign": "scenarios.suite.bdd.QAF TestNG Demo()[pri:1000, instance:com.qmetry.qaf.automation.step.client.Scenario@3e8]"
+      },
+      "dependsOn": [],
+      "startTime": 1620807327455,
+      "duration": 110,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

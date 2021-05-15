@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [QAF Demo]">
+  <parameter name="scenario.file.loc" value="scenarios/suite.bdd"/>
+  <parameter name="step.provider.pkg" value="com.qaf.testng.example"/>
+  <test name="BDD Test">
+    <parameter name="scenario.file.loc" value="scenarios/suite.bdd"/>
+    <parameter name="step.provider.pkg" value="com.qaf.testng.example"/>
+    <classes>
+      <class name="com.qmetry.qaf.automation.step.client.text.BDDTestFactory"/>
+    </classes>
+  </test> <!-- BDD Test -->
+</suite> <!-- Failed suite [QAF Demo] -->

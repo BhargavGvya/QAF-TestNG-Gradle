@@ -1,0 +1,24 @@
+apply plugin: 'java'
+
+repositories {
+    jcenter()
+    maven {
+            url "https://qmetry.github.io/qaf/dist/"
+    }
+}
+
+test {
+    useTestNG() {
+    dependsOn cleanTest
+        useDefaultListeners = true
+    testLogging.showStandardStreams = true
+    failFast = true
+        if (project.hasProperty("suite1")) { suites 'config/test-run-config.xml' }
+        if (project.hasProperty("suite2")) { suites 'testng.xml' }
+    }
+}
+
+dependencies {
+    compile 'com.qmetry:qaf:2.1.10'
+    compile 'com.qmetry:qaf-support:2.1.10'    
+}

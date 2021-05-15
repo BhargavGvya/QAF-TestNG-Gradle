@@ -1,0 +1,2 @@
+com/qaf/testng/example/MultiplyTest.java
+ com.qaf.testng.example.MultiplyTest

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.qaf.testng.example.MultiplyTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-15T16:38:55" hostname="LAPTOP-00QQI336" time="0.012">
+  <properties/>
+  <testcase name="dummyTest" classname="com.qaf.testng.example.MultiplyTest" time="0.012"/>
+  <system-out><![CDATA[This test annotated with TestNG class
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

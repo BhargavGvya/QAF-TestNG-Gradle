@@ -1,0 +1,19 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "dummyTest",
+        "sign": "MultiplyTest.dummyTest()[pri:0, instance:com.qaf.testng.example.MultiplyTest@4be8d564]"
+      },
+      "dependsOn": [],
+      "startTime": 1620814451606,
+      "duration": 110,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

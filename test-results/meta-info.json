@@ -1,0 +1,69 @@
+{
+  "reports": [
+    {
+      "name": "Gradle suite",
+      "dir": "test-results/Sat15May21_1008PM",
+      "startTime": 1621096735889
+    },
+    {
+      "name": "QAF Demo",
+      "dir": "test-results/Sat15May21_0958PM",
+      "startTime": 1621096102229
+    },
+    {
+      "name": "QAF Demo",
+      "dir": "test-results/Sat15May21_0858PM",
+      "startTime": 1621092492706
+    },
+    {
+      "name": "QAF Demo",
+      "dir": "test-results/Sat15May21_0856PM",
+      "startTime": 1621092366152
+    },
+    {
+      "name": "QAF Demo",
+      "dir": "test-results/Sat15May21_0830PM",
+      "startTime": 1621090831369
+    },
+    {
+      "name": "Default suite",
+      "dir": "test-results/Sat15May21_0829PM",
+      "startTime": 1621090789218
+    },
+    {
+      "name": "Suite",
+      "dir": "test-results/Wed12May21_0345PM",
+      "startTime": 1620814528868
+    },
+    {
+      "name": "Suite",
+      "dir": "test-results/Wed12May21_0344PM",
+      "startTime": 1620814451461
+    },
+    {
+      "name": "QAF Demo",
+      "dir": "test-results/Wed12May21_0318PM",
+      "startTime": 1620812923855
+    },
+    {
+      "name": "Default suite",
+      "dir": "test-results/Wed12May21_0305PM",
+      "startTime": 1620812149649
+    },
+    {
+      "name": "QAF Demo",
+      "dir": "test-results/Wed12May21_0154PM",
+      "startTime": 1620807860441
+    },
+    {
+      "name": "QAF Demo",
+      "dir": "test-results/Wed12May21_0151PM",
+      "startTime": 1620807699820
+    },
+    {
+      "name": "QAF Demo",
+      "dir": "test-results/Wed12May21_0145PM",
+      "startTime": 1620807326876
+    }
+  ]
+}

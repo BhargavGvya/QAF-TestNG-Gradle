@@ -1,0 +1,5 @@
+SCENARIO: QAF TestNG Demo
+META-DATA: {"desc": "Exploring QAF TestNG"}
+     Given if numbers are positive
+     Then multiply numbers
+END
