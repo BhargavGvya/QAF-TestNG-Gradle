@@ -17,7 +17,7 @@ public class MultiplyTest {
 	@QAFTestStep(description = "multiply numbers")
 	public void multiply()
 	{
-		System.out.println("This is from multiply test");
+		System.out.println("This is from multiply test edited directly at github repo");
 		Validator.assertThat(7, Matchers.greaterThan(9));
 	}
 	
