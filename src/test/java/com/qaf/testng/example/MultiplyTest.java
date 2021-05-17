@@ -18,7 +18,7 @@ public class MultiplyTest {
 	public void multiply()
 	{
 		System.out.println("This is from multiply test");
-		Validator.assertThat(7, Matchers.greaterThan(6));
+		Validator.assertThat(7, Matchers.greaterThan(9));
 	}
 	
 	@Test
